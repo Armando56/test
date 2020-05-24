@@ -32,3 +32,4 @@ alert('Бюджет на 1 день: 100$');
 console.log(mainList.shopGoods[0]);
 console.log(mainList.shopGoods[1]);
 console.log(mainList.shopGoods[2]);
+
